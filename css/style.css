@@ -738,7 +738,7 @@ header .contaner .main-menu > li > a:hover::before {
 }
 @media (max-width: 670px) {
   .Testimonials .contaner .section-cards {
-    grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
     gap: 40px;
   }
 }
